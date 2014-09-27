@@ -9,6 +9,7 @@ import java.io.InputStream;
  * Built using CHelper plug-in
  * Actual solution is at the top
  * @author Anirudh Rayabharam
+ * Solution to UVa 10583 Ubiquitous Religions
  */
 public class Main {
 	public static void main(String[] args) {

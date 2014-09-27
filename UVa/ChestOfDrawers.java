@@ -9,7 +9,7 @@ import java.io.InputStream;
  * Built using CHelper plug-in
  * Actual solution is at the top
  * @author Anirudh Rayabharam
- * @problem UVa 10583 Chest of Drawers
+ * @problem UVa 11420 Chest of Drawers
  */
 public class Main {
 	public static void main(String[] args) {
