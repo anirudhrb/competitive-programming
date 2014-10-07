@@ -130,7 +130,7 @@ class DisjointSetForest {
 
     /**
      * Finds the representative element of the set containing the element "element".
-     * Uses the path-compression heuristic to optimize the data structure.
+     * Uses the path-compression heuristic to optimize the operation.
      *
      * @param element the element that the return set should contain
      * @return the set number of the set containing the element "element".
